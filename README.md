@@ -1,3 +1,1 @@
-# Student portfolio
-
-Hey! welcome to my portfolio.
+U need to read this if u wanna visit the site

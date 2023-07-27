@@ -1,3 +1,7 @@
-# Student portfolio
+#Who am I
+Soon to be a MERN full stack developer!
 
-Hey! welcome to my portfolio.
+Contact Me at :
+Linkedin : https://www.linkedin.com/in/karan-kotai-1a79a9270
+
+Portfolio : 

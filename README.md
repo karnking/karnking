@@ -5,7 +5,7 @@
 
 🌱 I’m looking for Opportunities
 
-👨‍💻 All of my projects are available at https://karanking.github.io/
+👨‍💻 All of my projects are available at https://karnking.github.io/
 
 💬 Ask me about React, Redux, HTML, CSS, JavaScript
 

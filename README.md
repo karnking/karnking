@@ -21,4 +21,4 @@ Linkedin : https://www.linkedin.com/in/karan-kotai-1a79a9270
   </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karnking&theme=highcontrast&hide_border=true"/></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karnking&theme=highcontrast&hide_border=true"/></a>

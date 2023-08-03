@@ -14,3 +14,10 @@
 # Socials 
 Linkedin : https://www.linkedin.com/in/karan-kotai-1a79a9270
 
+🧩Languages, Libraries & Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,HTML,CSS,nextjs,typescript,tailwind,python,java,mysql,git" />
+  </a>
+</p>
+

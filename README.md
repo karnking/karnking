@@ -14,12 +14,14 @@
 # Socials 
 Linkedin : https://www.linkedin.com/in/karan-kotai-1a79a9270
 
-🧩Languages, Libraries & Frameworks
+🧩Languages, Libraries & Frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,nextjs,typescript,tailwind,python,java,mysql,git" />
   </a>
 </p>
+
+## 📊 **GitHub Stats**:
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karnking&theme=highcontrast&hide_border=true"/></a>
 </p>

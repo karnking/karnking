@@ -20,5 +20,6 @@ Linkedin : https://www.linkedin.com/in/karan-kotai-1a79a9270
     <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,nextjs,typescript,tailwind,python,java,mysql,git" />
   </a>
 </p>
-
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karnking&theme=highcontrast&hide_border=true"/></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karnking&theme=highcontrast&hide_border=true"/></a>
+</p>

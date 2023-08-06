@@ -12,7 +12,7 @@
 📫 To reach me karankotai9183@gmail.com
 
 # Socials 
-Linkedin : https://www.linkedin.com/in/karan-kotai-1a79a9270
+Linkedin : <a href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 🧩Languages, Libraries & Frameworks:
 <p align="center">

@@ -3,6 +3,8 @@
 # **<p align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm Karan Kotai</p>**
 **An aspiring and self-motivated full-stack web developer with a passion for coding and having 1200+ hours of coding experience. I believe that teamwork makes dream work and working every day to better interpersonal skills. Looking for a challenging SDE role in a growth-oriented organization.**
 
+![](https://komarev.com/ghpvc/?username=karnking)
+
 🌱 I’m looking for Opportunities
 
 👨‍💻 All of my projects are available at https://karnking.github.io/

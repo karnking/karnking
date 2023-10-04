@@ -26,5 +26,6 @@
 
 ## 📊 **GitHub Stats**:
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karnking&theme=highcontrast&hide_border=true"/></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=karning)](https://git.io/streak-stats)
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karnking&theme=highcontrast&hide_border=true"/></a> -->
 </p>

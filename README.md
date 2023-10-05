@@ -9,7 +9,7 @@
 
 👨‍💻 All of my projects are available at https://karnking.github.io/
 
-💬 Ask me about React, Redux, Next.js, TypeScrupt, Javascript, HTML, CSS!
+💬 Ask me about React, Redux, Next.js, TypeScript, Javascript, HTML, CSS!
 
 📫 To reach me karankotai9183@gmail.com
 
@@ -25,7 +25,7 @@
 </p>
 
 ## 📊 **GitHub Stats**:
+[(https://streak-stats.demolab.com/?user=karning)]
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=karning)](https://git.io/streak-stats)
 <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karnking&theme=highcontrast&hide_border=true"/></a> -->
 </p>

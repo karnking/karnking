@@ -9,7 +9,7 @@
 
 👨‍💻 All of my projects are available at https://karnking.github.io/
 
-💬 Ask me about React, Redux, HTML, CSS, JavaScript
+💬 Ask me about React, Redux, Next.js, TypeScrupt, Javascript, HTML, CSS!
 
 📫 To reach me karankotai9183@gmail.com
 

@@ -32,10 +32,8 @@ Believe in "People don’t care about what you say, they care about what you bui
 
 ![Karan's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karnking&layout=pie&theme=dark)
 
-<p align='center>
-  
+
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karnking&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
   ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karnking&show_icons=true&theme=radical)
 
-</p>

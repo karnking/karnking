@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=karnking)
 
+# "People don’t care about what you say, they care about what you build – Mark Zuckerberg"
+
 🌱 I’m looking for Opportunities
 
 👨‍💻 All of my projects are available at https://karnking.github.io/
@@ -13,7 +15,6 @@
 
 📫 To reach me karankotai9183@gmail.com
 
-# Socials 
 ## **Linkedin** 
 <a target="_blank" href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

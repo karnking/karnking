@@ -26,6 +26,10 @@
 
 ## 📊 **GitHub Stats**:
 
+<p align="">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashukmt&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <br /><br />
+</p>
 ![Karan's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karnking&layout=pie&theme=dark)
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karnking&show_icons=true&theme=radical)
 

@@ -12,7 +12,7 @@
 
 💬 Ask me about React, Redux, Next.js, TypeScript, Javascript, HTML, CSS!
 
-❤️ Believe in "People don’t care about what you say, they care about what you build" – Mark Zuckerberg
+ :heart: Believe in "People don’t care about what you say, they care about what you build" – Mark Zuckerberg
 
 ## Contact Me at 
 

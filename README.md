@@ -14,18 +14,18 @@
 
  :heart: Believe in "People don’t care about what you say, they care about what you build" – Mark Zuckerberg
 
-## Contact Me at 
-
-📫 Mail at: karankotai9183@gmail.com
-
-<a target="_blank" href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 🧩Languages, Libraries & Frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,nextjs,typescript,tailwind,python,java,mysql,git" />
   </a>
 </p>
+
+## Contact Me at 
+
+📫 Mail at: karankotai9183@gmail.com
+
+<a target="_blank" href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 📊 **GitHub Stats**:
 

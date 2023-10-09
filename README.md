@@ -10,7 +10,7 @@
 
 👨‍💻 All of my projects are available at https://karnking.github.io/
 
-💬 Ask me about React, Redux, Next.js, TypeScript, Javascript, HTML, CSS! Or life
+💬 Ask me about React, Redux, Next.js, TypeScript, Javascript, HTML, CSS Or life
 
  :heart: Believe in "People don’t care about what you say, they care about what you build" – Mark Zuckerberg
 

@@ -28,7 +28,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> https://www.linkedin.com/in/karan-kotai-1a79a9270
 ## 📊 **GitHub Stats**:
 
-<p align="center">
+<div align="center">
 
 ![Karan's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karnking&layout=pie&theme=dark)
 
@@ -36,4 +36,4 @@
   
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karnking&show_icons=true&theme=radical)
 
-</p>
+</div>

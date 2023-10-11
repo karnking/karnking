@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=karnking)
 
 
-🌱 I’m looking for Opportunities
+🌱 I’m looking for Opportunities and am working on Personal Development
 
 👨‍💻 All of my projects are available at https://karnking.github.io/
 

@@ -33,6 +33,7 @@
     <td valign="center">https://www.linkedin.com/in/karan-kotai-1a79a9270</td>
   </tr>
 </table>
+
 ## 📊 **GitHub Stats**:
 
 <div align="center">

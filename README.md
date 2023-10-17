@@ -23,9 +23,16 @@
 
 ## Contact Me at 
 
-📫 Mail at: karankotai9183@gmail.com
-
-<a target="_blank" href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> https://www.linkedin.com/in/karan-kotai-1a79a9270
+<table>
+  <tr>
+   <td>📫 Mail at</td>
+   <td>karankotai9183@gmail.com</td>
+   </tr>
+  <tr>
+    <td valign="end"><a target="_blank" href="https://www.linkedin.com/in/karan-kotai-1a79a9270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td valign="center">https://www.linkedin.com/in/karan-kotai-1a79a9270</td>
+  </tr>
+</table>
 ## 📊 **GitHub Stats**:
 
 <div align="center">
